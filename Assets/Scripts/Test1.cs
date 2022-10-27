@@ -17,6 +17,7 @@ public class Test1 : MonoBehaviour
         print ("Hello world2");
         print ("NONONONONONO");
         print ("NONONONONONO");
+        print ("feature1");
     }
 
     // Update is called once per frame
