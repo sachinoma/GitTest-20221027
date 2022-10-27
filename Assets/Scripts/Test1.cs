@@ -22,5 +22,9 @@ public class Test1 : MonoBehaviour
     void Update()
     {
         print("1");
+
+
+
+        print("kawashima");
     }
 }
