@@ -1,10 +1,16 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.InteropServices;
 using UnityEngine;
 
 public class Test1 : MonoBehaviour
 {
     // Start is called before the first frame update
+    void Awake()
+    {
+        print("aaaaaaaa");
+    }
+    
     void Start()
     {
         print ("Hello world");
