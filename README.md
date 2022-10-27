@@ -9,8 +9,6 @@
 
 | 種類 | スタイル | 例 | 備考 |
 | ---- | ---- | ---- | ---- |
-| 種類 | スタイル | 例 | 備考 |
-| ---- | ---- | ---- | ---- |
 | 名前空間 | PascalCase | namespace MyNamespace | |
 | インターフェース | PascalCase | interface IDisposable | プレフィックス `I` |
 | クラス | PascalCase | class Player | |
