@@ -8,6 +8,7 @@ public class Test1 : MonoBehaviour
     void Start()
     {
         print ("Hello world");
+        print ("Hello world2");
         print ("NONONONONONO");
     }
 
